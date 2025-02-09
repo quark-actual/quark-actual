@@ -1,78 +1,83 @@
-**👋 Hi there, I'm Chris!**
+**Hi there, I'm Chris!**
 ===========================
-I don’t just build—I deconstruct. From the ground up, I tear things down to see what makes them tick, reverse-engineering my way to deeper understanding and innovation.\
-From bits to bytes, from instructions to machine code, from object code to executable programs—building the bridge from raw data to functional innovation, one layer at a time.
+I don’t just build — I deconstruct. From the ground up, I tear things down to see what makes them tick, reverse-engineering my way to deeper understanding and innovation.\
+From waveforms to waveguides, bits to bytes, instructions to machine code, object code to executable programs — building the bridge from raw data to functional innovation, one layer at a time. \
+
+
 
 * * * * *
 
-**🔭 What I'm Working On**
+**What I'm Working On currently**
 --------------------------
 
 ### **💪 FusionPhysique -- Fitness & Nutrition Tracking App**
 
+This is a personal passion project that is a work in progress.\
+I love talking about it but still have a ways to go, so I won't go into too much detail here.
+
 🚀 Developing a **personalized, intuitive, and gamified fitness & nutrition tracking platform**.\
-🛠 **Tech Stack**: PostgreSQL, SQL, Docker, Node.js, React, TypeScript\
+🛠 **Tech Stack**: `PostgreSQL`, `Docker`, `Node.js`, `React`, `TypeScript`\
 🏋️‍♂️ **Key Features**:
 
 -   Workout generator & exercise library
 -   Adaptive training & fatigue tracking
 -   Nutrition tracking & progress analytics
 
+
+---
+
+
 ### **🦾 Motion Mesh -- Human Motion Tracking System**
 
+
+This is a project I am using to enhance my skills in embedded systems, IoT, and real-time data processing.\
+I have learned a lot about C++, RTOS, and PCB design through this project.
+
+
 📡 Building **a sensor-based motion tracking system** for **biomechanics & exercise optimization**.\
-🛠 **Tech Stack**: ESP32, MPU9250, C++, WIFI, PCB Design\
+🛠  **Tech Stack**:  `C++`, `Makefile`, `ESP-IDF` \
+🔧 **Hardware Components**: `ESP32`, `MPU9250`
+
 🎯 **Key Features**:
 
 -   Real-time joint movement tracking
 -   Sensor fusion & advanced data filtering
--   Low-power wireless data transmission
+-   Low-power redundant wireless data transmission between nodes to a web dashboard
 
-### **🛡️ My primary focus for 2023 was enhancing my skills in RTOS, Embedded Development, IOT**
+---
 
-### **🛡️ My primary focus for 2024 is enhancing my skills in DevOps & Cloud**
+**What I've been up to**
+--------------------------
 
-### **🛡️ My primary focus for 2025 is enhancing my skills in Networking & Security**
+### **🛡️ `2023`: Mastering RTOS, Embedded Systems, and IoT**
 
-🔐 Studying **Networking & Cybersecurity** to earn my **Security+ and CCNA** certifications.\
-🛠 **Current Focus**:
-
--   Network protocols & security fundamentals
--   Penetration testing & ethical hacking (TryHackMe labs)
--   Firewalls, VPNs, and secure network design
-
-* * * * *
-
-**🌱 What I'm Learning**
-------------------------
-
--   **Networking & Security** (Security+ & CCNA)
--   **Advanced SQL Optimization**
--   **Embedded Systems & IoT Security**
--   **Biomechanics & AI-driven Exercise Science**
+In 2023, I focused on deepening my understanding of **Real-Time Operating Systems (RTOS)**, embedded development, and **Internet of Things (IoT)** technologies. This journey involved:\
+✅ Designing efficient RTOS-based applications with real-time constraints\
+✅ Developing firmware for microcontrollers and embedded systems\
+✅ Exploring IoT protocols, sensor integration, and edge computing\
+✅ Enhancing low-level debugging skills and optimizing embedded performance
 
 * * * * *
 
-**⚡My favorite Fun Science Fact**
------------------------
+### **☁️ `2024`: Elevating My DevOps & Cloud Expertise**
 
-### 🔥 **The Hottest Thing in the Universe: Quark-Gluon Plasma**
-
-📍 **Created in the Large Hadron Collider (LHC)**\
-🌡 **5.5 Trillion K** -- 350,000x hotter than the Sun's core!\
-⚛️ **So hot it melts protons & neutrons like butter in a furnace!**
-
-### ❄️ **The Coldest Thing in the Universe: NASA's Cold Atom Lab**
-
-📍 **Aboard the International Space Station (ISS)**\
-🌡 **100 nanoKelvin** -- just a fraction above absolute zero!\
-🧊 **AAt 100 nanoKelvin, atoms move so slowly that it would take them nearly 2 seconds to travel just one centimeter—thousands of times slower than their speed at room temperature.**
+This year, my primary goal is to **bridge the gap between development and operations** by focusing on **DevOps and Cloud technologies**. My roadmap includes:\
+✅ Mastering **CI/CD pipelines** to automate and optimize workflows\
+✅ Implementing **Infrastructure as Code (IaC)** with Terraform and Ansible\
+✅ Deep-diving into **containerization** with Docker and Kubernetes\
+✅ Strengthening cloud security, monitoring, and cost optimization strategies
 
 * * * * *
 
-**📫 Let's Connect!**
----------------------
+### **🔐 `2025`: Advancing in Networking & Security**
 
-🔗 **GitHub:** [github.com/yourusername](https://github.com/yourusername)\
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)\
-🔗 **Website (If applicable):** [yourwebsite.com](https://yourwebsite.com)
+Looking ahead, 2025 will be all about enhancing my knowledge in **networking and cybersecurity** to build robust and secure systems. My key areas of focus will include:\
+✅ Strengthening my understanding of **network protocols, routing, and switching**\
+✅ Gaining hands-on experience with **firewalls, VPNs, and zero-trust architectures**\
+✅ Exploring **penetration testing, ethical hacking, and threat detection**\
+✅ Building expertise in **cybersecurity frameworks and cloud security best practices**
+
+* * * * *
+
+
+
