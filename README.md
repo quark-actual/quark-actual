@@ -4,7 +4,6 @@ I don’t just build — I deconstruct. From the ground up, I tear things down t
 From waveforms to waveguides, bits to bytes, instructions to machine code, object code to executable programs — building the bridge from raw data to functional innovation, one layer at a time.
 
 
-
 * * * * *
 
 **What I'm Working On currently**
@@ -77,7 +76,7 @@ Looking ahead, 2025 will be all about enhancing my knowledge in **networking and
 ✅ Exploring **penetration testing, ethical hacking, and threat detection**\
 ✅ Building expertise in **cybersecurity frameworks and cloud security best practices**
 
+My Intentions for this year are to get my `Security+`, `CCNA`, and enhance my skills in cloud security, as well as gain deeper knowledge in cloud service architectures.
+
 * * * * *
-
-
 
