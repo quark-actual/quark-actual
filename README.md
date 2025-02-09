@@ -1,7 +1,7 @@
 **Hi there, I'm Chris!**
 ===========================
 I don’t just build — I deconstruct. From the ground up, I tear things down to see what makes them tick, reverse-engineering my way to deeper understanding and innovation.\
-From waveforms to waveguides, bits to bytes, instructions to machine code, object code to executable programs — building the bridge from raw data to functional innovation, one layer at a time. \
+From waveforms to waveguides, bits to bytes, instructions to machine code, object code to executable programs — building the bridge from raw data to functional innovation, one layer at a time.
 
 
 
