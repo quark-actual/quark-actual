@@ -80,4 +80,4 @@ My Intentions for this year are to get my `Security+`, `CCNA`, and enhance my sk
 
 * * * * *
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1194489" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/QuarkGluonPlasma.png" alt="Your Image Badge" />
